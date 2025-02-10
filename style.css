@@ -1,12 +1,14 @@
+@font-face {
+  font-family: "Comic Sans MS";
+  src: url("Comic Sans MS.ttf") format("truetype");
+}
+
 body {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhe80yEwsBhlxm4IyqEwSHCeqeTVIMlDWRdg&s");
-  @font-face {
-    font-family: "Comic Sans MS";
-    src: url("Comic Sans MS.ttf") format("truetype");
-  }
 }
 
 h1 {
+  font-family: "Comic Sans MS"; 
   color: black;
 }
 
